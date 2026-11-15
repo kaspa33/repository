@@ -1,5 +1,11 @@
 {
   "user": [
-
+    {
+"id": 1,
+"name": Sasha,
+"surname": Kaspa,
+"photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBB4LQTn0vRq4ydPLp-uTj_lEUHOHYWUU18JlCq5KuMw&s=10",
+"balance": 10000,
+    }
   ]
 }
