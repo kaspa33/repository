@@ -1,5 +1,11 @@
 {
   "user": [
-
+    {
+      "id": 3,
+      "name": "grebebtybyte",
+      "surname": "gpojpgjiijogijog",
+      "photoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZMBfIrU8bZzmts0Cwp8QGV5YnM67ujRga5NAVBP1Ou7SJ45ui_K1k_f8&s=10",
+      "balance": 1000000000000000
+    }      
   ]
 }
